@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""This module defines a class to manage file storage for hbnb clone"""
+"""
+Contains the FileStorage class
+"""
+
 import json
 from models.amenity import Amenity
 from models.base_model import BaseModel

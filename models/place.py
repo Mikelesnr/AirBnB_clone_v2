@@ -1,9 +1,5 @@
-#!/usr/bin/python3
-
-"""The `place` module
-It defines one class, `Place(),
-which sub-classes the `BaseModel()` class.`
-"""
+#!/usr/bin/python
+""" holds class Place"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv

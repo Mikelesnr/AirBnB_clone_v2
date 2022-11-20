@@ -1,9 +1,5 @@
-#!/usr/bin/python3
-
-"""The `review` module.
-It defines one class, `Review(),
-which sub-classes the `BaseModel()` class.`
-"""
+#!/usr/bin/python
+""" holds class Review"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv

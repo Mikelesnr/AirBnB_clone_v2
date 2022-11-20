@@ -1,9 +1,5 @@
 #!/usr/bin/python3
-
-"""The `state` module
-This module defines one class, `State(),
-State() sub-classes the `BaseModel()` class.`
-"""
+""" holds class State"""
 import models
 from models.base_model import BaseModel, Base
 from models.city import City

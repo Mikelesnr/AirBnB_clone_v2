@@ -1,9 +1,5 @@
-#!/usr/bin/python3
-
-"""The `amenity` module
-This module defines one class, `Amenity(),
-Amenity is sub-classes the `BaseModel()` class.`
-"""
+#!/usr/bin/python
+""" holds class Amenity"""
 import models
 from models.base_model import BaseModel, Base
 from os import getenv
